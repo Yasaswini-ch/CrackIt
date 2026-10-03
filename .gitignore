@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.bak
+*.log
+launch_out.txt
+test_runs.txt
+.DS_Store
