@@ -1,9 +1,18 @@
 # ⚗️ CrackIt
 > **Big equations, broken into small pieces.**
 
+![CrackIt Dashboard](docs/dashboard.png)
+
 Built for my brother, a diploma student in petrochemical engineering who finds heavy maths boring.
 CrackIt takes an engineering equation and breaks it into small, friendly parts, with a petrochemical
 plant example every time, and lets you play with the numbers live.
+
+---
+
+## 🌐 Live Demo & Deployment
+
+- **Live on Render:** [https://crackit-ch8e.onrender.com/](https://crackit-ch8e.onrender.com/)
+- **Repository:** [https://github.com/Yasaswini-ch/CrackIt](https://github.com/Yasaswini-ch/CrackIt)
 
 ---
 
